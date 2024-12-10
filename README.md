@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in Rust: accessing an element in a vector using an index that is out of bounds. The `bug.rs` file contains the erroneous code, while `bugSolution.rs` provides a corrected version.  Understanding how to handle array indexing is crucial for writing robust Rust programs.
